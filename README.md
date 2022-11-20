@@ -57,4 +57,4 @@ GET `/users` | `http://localhost:4000/users` with Bearer Token
 
 ---
 
-*For a db user production model view examples [here!](https://github.com/WitchieXCabot/api-auth-test/examples/dbExample.js)*
+*For a db user production model view examples [here!](https://github.com/WitchieXCabot/api-auth-test/blob/main/examples/dbExample.js)*
