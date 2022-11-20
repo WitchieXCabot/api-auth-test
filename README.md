@@ -54,3 +54,7 @@ GET `/users` | `http://localhost:4000/users` with Bearer Token
 3. Test API with [Insomnia](https://github.com/Kong/insomnia)
 
 4. Run `npm start` for production
+
+---
+
+*For a db user production model view examples [here!](https://github.com/WitchieXCabot/api-auth-test/examples/dbExample.js)*
